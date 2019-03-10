@@ -1,6 +1,6 @@
 {
-  "short_name": "React",
-  "name": "React",
+  "short_name": "NETCore_ToDo",
+  "name": "NETCore_ToDo",
   "icons": [
     {
       "src": "favicon.ico",
